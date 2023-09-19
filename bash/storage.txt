@@ -1,0 +1,5 @@
+S.ficheros     Tamaño Usados  Disp Uso% Montado en
+/dev/root        116G    89G   23G  80% /
+336K	/home/anxzu/Documentos/SMB/Contador
+872K	/home/anxzu/Documentos/SMB/Capturista
+148K	/home/anxzu/Documentos/SMB/Direccion

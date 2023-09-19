@@ -1,0 +1,3 @@
+Deleted user andres.
+Eliminando al usuario `andres' ...
+Aviso: el grupo `jefe' no tiene más miembros.

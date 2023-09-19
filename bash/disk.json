@@ -1,0 +1,10 @@
+{
+   "blockdevices": [
+      {"name":"mmcblk0", "maj:min":"179:0", "rm":false, "size":"117.8G", "ro":false, "type":"disk", "mountpoint":null,
+         "children": [
+            {"name":"mmcblk0p1", "maj:min":"179:1", "rm":false, "size":"256M", "ro":false, "type":"part", "mountpoint":"/boot"},
+            {"name":"mmcblk0p2", "maj:min":"179:2", "rm":false, "size":"117.5G", "ro":false, "type":"part", "mountpoint":"/"}
+         ]
+      }
+   ]
+}
